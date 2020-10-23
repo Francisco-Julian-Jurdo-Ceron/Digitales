@@ -1,0 +1,33 @@
+
+
+# Logs
+logs
+*.log
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE
+.idea/*
+*.iml
+*.sublime-*
+
+# OSX
+.DS_Store
+
+# Build
+dist/
+build/
+
+# debug
+debug/
+
+#project/
+nbproject/
+
+#Makefile
+Makefile
